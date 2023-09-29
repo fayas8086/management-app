@@ -1,0 +1,33 @@
+unique id generation
+----------------------
+
+uuid - library used to create unique ids
+for use this first we need to install this library -npm i react-uuid
+this uuid need to call 2 times one is in the useeffect other one is where we need 
+this call there also
+we give the uuid in the useeffect because 
+npm i react-uuid
+
+redirection in react
+--------------------------
+
+Link
+useNavigate - hook used to redirection
+
+preventDefault()
+------------------
+it is the method whenever a form is refresh automattically then to avoid that we use this method
+somotime in react in some forms it will refresh automattically to avoid that we use this method
+it saying more about in the empolyement project in the time of add function -time-8:48
+                                    or 
+sometimes when we click on the button on the form it means nammal on click work chheypikoboll
+aaaa onclickendaa event aaa formill ninuu varunna datana automatically ayyat refresh cheyypikum
+aganna refresh avvan karranm a event avvda multiple time work chheyunath kond ann ee data automatticallyayyath refresh akkunath
+so ethina avoid cheeyan veedi nammal preventcheyath kodukukaa, aa event multiple time work cheyyadirkan
+veedi prevent cheyth kodukkukaa.then aa event one time mathram work cheyyloo
+
+
+useParams
+---------------
+it is the hook comming from react-router-dom
+it is used to access the params from url
